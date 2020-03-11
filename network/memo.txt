@@ -1,0 +1,82 @@
+http://43.98.48.251/redmine
+Gaoyuan.Hu
+spdhhgy
+
+https://43.98.48.251/svn/SPDH_Repo/
+Gaoyuan.Hu
+spdhhgy
+
+https://www.tinkercad.com/#/
+163 mail address
+speedautodesk1...6
+
+https://jps00002183.jp.sony.com/trac/umii
+Yyyyy.Zzzz
+Zzzz
+
+[UMII Redmine]
+https://[2001:3b8:4001:8502:250:56ff:febb:5776]/redmine/
+workcode + workpassword
+
+[UMII SVN]
+https://odd-projects.semicon.sony.co.jp/svn/repos/umii 
+workcode + workpassword
+
+[Neural Network Cloud]
+163 mail address
+spcpwd
+
+http://43.82.111.237/
+takahara07891237
+
+[https://qiita.com]
+ID:blackberrypalmone
+MAIL:blackberrypalmone@gmail.com
+PWD:speedqiita
+
+[LinkedIn & SlideShare]
+163 mail address
+speedlinkedin
+
+[www.whufo.com]
+163 mail address
+spcpwd
+workcode:workcode
+
+[GOOGLE]
+blackberrypalmone@gmail.com
+s***dg****e
+
+[cnBlogs]
+hotmail
+mailspeed
+spcpwd
+
+[GitHub]
+hotmail
+mailspeed
+spcpwd
+
+[https://specialpurchase.sony.com.cn/specialpurchase/factoryLogin.do]
+5105244413
+spcpwd
+
+43.98.48.23
+spcpwd
+
+robotreg
+163mail
+speed_123456
+
+www.robo-one.com
+mailspeed@163.com
+USERID:TAKAHARA
+PWD:speedroboone
+
+[http://5sing.kugou.com/index.html]
+cell phone number
+spcpwd
+
+[tweeter]
+mailspeed/cellphone number
+spcpwd

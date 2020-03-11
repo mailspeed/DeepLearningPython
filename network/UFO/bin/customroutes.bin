@@ -1,0 +1,8 @@
+﻿#For Single IP Address
+114.80.143.218
+
+#For IP Address Ranges(66.171.0.1  ~ 66.171.255.255)
+66.171.0.0
+
+#For IP Address Ranges(37.61.54.1 ~ 37.61.54.255)
+37.61.54.0 

@@ -1,0 +1,128 @@
+﻿If you want to abandon the connection completely, press
+Return to cancel. Pressing Return is the ONLY guaranteed
+safe choice.
+Update cached key? (y/n, Return cancels connection) Host key fingerprint is:
+ssh-rsa 2048 5a:05:7b:56:4a:8e:83:b7:55:21:ff:57:26:43:65:bf
+Initialised AES-256 SDCTR client->server encryption
+Initialised HMAC-SHA1 client->server MAC algorithm
+Initialised AES-256 SDCTR server->client encryption
+Initialised HMAC-SHA1 server->client MAC algorithm
+Using username "5105242259".
+Sent password
+Access granted
+Local port 2012 SOCKS dynamic forwarding
+Looking up host "sw.v.u2012.win"
+Unable to open connection:
+Host does not exist
+Looking up host "sw.v.u2012.win"
+Unable to open connection:
+Host does not exist
+Looking up host "sw.v.u2012.win"
+Unable to open connection:
+Host does not exist
+Looking up host "sw.v.u2012.win"
+Unable to open connection:
+Host does not exist
+Looking up host "sw.v.u2012.win"
+Connecting to 161.117.10.133 port 443
+Server version: SSH-2.0-OpenSSH_5.3
+Using SSH protocol version 2
+We claim version: SSH-2.0-OpenSSH_4.3p2_Debian_9etch3
+Doing Diffie-Hellman group exchange
+Doing Diffie-Hellman key exchange with hash SHA-256
+WARNING - POTENTIAL SECURITY BREACH!
+The server's host key does not match the one PuTTY has
+cached in the registry. This means that either the
+server administrator has changed the host key, or you
+have actually connected to another computer pretending
+to be the server.
+The new rsa2 key fingerprint is:
+ssh-rsa 2048 92:47:c5:b9:32:a9:e3:76:c5:5c:14:6d:a9:88:7d:f4
+If you were expecting this change and trust the new key,
+enter "y" to update PuTTY's cache and continue connecting.
+If you want to carry on connecting but without updating
+the cache, enter "n".
+If you want to abandon the connection completely, press
+Return to cancel. Pressing Return is the ONLY guaranteed
+safe choice.
+Update cached key? (y/n, Return cancels connection) Host key fingerprint is:
+ssh-rsa 2048 92:47:c5:b9:32:a9:e3:76:c5:5c:14:6d:a9:88:7d:f4
+Initialised AES-256 SDCTR client->server encryption
+Initialised HMAC-SHA1 client->server MAC algorithm
+Initialised AES-256 SDCTR server->client encryption
+Initialised HMAC-SHA1 server->client MAC algorithm
+Using username "5105242259".
+Sent password
+Access granted
+Local port 2012 SOCKS dynamic forwarding
+Looking up host "sw.v.u2012.win"
+Connecting to 161.117.10.133 port 443
+Failed to connect to 161.117.10.133: Network error: Connection refused
+Network error: Connection refused
+FATAL ERROR: Network error: Connection refused
+Looking up host "sw.v.u2012.win"
+Connecting to 161.117.10.133 port 443
+Failed to connect to 161.117.10.133: Network error: Connection refused
+Network error: Connection refused
+FATAL ERROR: Network error: Connection refused
+Looking up host "sw.v.u2012.win"
+Connecting to 161.117.10.133 port 443
+Failed to connect to 161.117.10.133: Network error: Connection refused
+Network error: Connection refused
+FATAL ERROR: Network error: Connection refused
+Looking up host "sw.v.u2012.win"
+Connecting to 161.117.10.133 port 443
+Failed to connect to 161.117.10.133: Network error: Connection refused
+Network error: Connection refused
+FATAL ERROR: Network error: Connection refused
+******************************************************
+IPAddress -> 192.168.50.230
+IPSubnet -> 255.255.255.0
+DefaultIPGateway -> 192.168.50.1
+******************************************************
+IPAddress -> 192.168.50.230
+IPSubnet -> 255.255.255.0
+DefaultIPGateway -> 192.168.50.1
+Looking up host "sw.v.u2012.win"
+Connecting to 161.117.12.175 port 443
+Server version: SSH-2.0-OpenSSH_5.3
+Using SSH protocol version 2
+We claim version: SSH-2.0-OpenSSH_4.3p2_Debian_9etch3
+Doing Diffie-Hellman group exchange
+Doing Diffie-Hellman key exchange with hash SHA-256
+The server's host key is not cached in the registry. You
+have no guarantee that the server is the computer you
+think it is.
+The server's rsa2 key fingerprint is:
+ssh-rsa 2048 92:47:c5:b9:32:a9:e3:76:c5:5c:14:6d:a9:88:7d:f4
+If you trust this host, enter "y" to add the key to
+PuTTY's cache and carry on connecting.
+If you want to carry on connecting just once, without
+adding the key to the cache, enter "n".
+If you do not trust this host, press Return to abandon the
+connection.
+Store key in cache? (y/n) Host key fingerprint is:
+ssh-rsa 2048 92:47:c5:b9:32:a9:e3:76:c5:5c:14:6d:a9:88:7d:f4
+Initialised AES-256 SDCTR client->server encryption
+Initialised HMAC-SHA1 client->server MAC algorithm
+Initialised AES-256 SDCTR server->client encryption
+Initialised HMAC-SHA1 server->client MAC algorithm
+Using username "5105242259".
+Sent password
+Access granted
+Local port 2012 SOCKS dynamic forwarding
+******************************************************
+IPAddress -> 192.168.50.230
+IPSubnet -> 255.255.255.0
+DefaultIPGateway -> 192.168.50.1
+******************************************************
+IPAddress -> 192.168.50.230
+IPSubnet -> 255.255.255.0
+DefaultIPGateway -> 192.168.50.1
+Looking up host "sw.v.u2012.win"
+Connecting to 161.117.32.180 port 443
+Failed to connect to 161.117.32.180: Network error: Connection timed out
+Connecting to 161.117.32.180 port 443
+Failed to connect to 161.117.32.180: Network error: Connection timed out
+Network error: Connection timed out
+FATAL ERROR: Network error: Connection timed out
